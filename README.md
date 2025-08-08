@@ -1,30 +1,38 @@
-# Hi, I'm Amir 👋
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00aaff&height=180&section=header&text=Amirhossein%20Nosratoddin&fontSize=36&fontColor=ffffff" width="100%"/>
 
-💻 **Full-Stack Developer** | 🌐 **Backend & Frontend Enthusiast** | 🤖 **AI & Deep Learning Learner**
-
-🚀 I create modern, responsive, and interactive applications with:
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, REST APIs
-- **Databases:** MongoDB, PostgreSQL, MSSQL
-- **Other:** Git, Docker, JWT Auth, WebSockets
+### Hi, I’m Amir 👋
+**Full-Stack Developer** — React/Next.js • Node.js/Express • PostgreSQL/MongoDB  
+I build fast, polished web apps and I’m into ML/CV on the side.
 
 ---
 
-## 🔥 Featured Projects
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [Portfolio](https://portfolio-8d48.vercel.app/) | My personal developer portfolio | Next.js, Tailwind |
-| [NFT Auction](https://github.com/Amirnsd/nft-auction) | Real-time blockchain auction platform | React, Web3 |
-| [Secure Bank](https://github.com/Amirnsd/Secure-Bank) | Secure online banking UI | React, TypeScript |
-| [E-Commerce](https://github.com/Amirnsd/shopping-cart) | Online store with Stripe integration | Next.js, Stripe |
+### 🔧 Tech
+**Frontend:** React, Next.js, Tailwind • **Backend:** Node.js, Express, REST  
+**DB:** PostgreSQL, MongoDB, MSSQL • **Langs:** TypeScript, JavaScript, Python, C/C++
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/amirnosratoddin](https://linkedin.com/in/amirnosratoddin)
-- **GitHub:** [github.com/Amirnsd](https://github.com/Amirnsd)
-- **Resume:** [Download Here](https://portfolio-8d48.vercel.app/Amir-Resume.pdf)
+### 🚀 Featured Projects
+- **Portfolio** – live: https://portfolio-8d48.vercel.app  
+- **NFT Auction** – https://github.com/Amirnsd/nft-auction  
+- **Secure Bank** – https://github.com/Amirnsd/Secure-Bank  
+- **E-Commerce** – https://github.com/Amirnsd/shopping-cart  
+- **Mini Message Board** – https://github.com/Amirnsd/Mini-Message-Board
 
 ---
 
-⭐ _Always open to collaboration on interesting projects!_
+### 📫 Links
+**Website:** https://portfolio-8d48.vercel.app  
+**LinkedIn:** https://www.linkedin.com/in/amirhossein-nosratoddin-600304249/  
+**GitHub:** https://github.com/Amirnsd
+
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amirnsd&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Amirnsd&theme=tokyonight" />
+</p>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:8a2be2&height=120&section=footer" width="100%"/>
